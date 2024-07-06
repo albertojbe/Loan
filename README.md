@@ -12,7 +12,7 @@ proposto pelo repositório Backend Brasil.
 
 A API poderá ser acessada em [localhost:8080]((http://localhost:8080)).
 
-- [POST] ```/customer-loans/```
+- [POST] ```/customer-loans```
 
 ```json
 {
